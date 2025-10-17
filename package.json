@@ -1,0 +1,8 @@
+{
+  "name": "supply-chain-scanner",
+  "version": "0.1.0",
+  "description": "Demo package for Supply-Chain-Scanner",
+  "main": "assets/app.js",
+  "scripts": { "start": "node assets/app.js" },
+  "license": "MIT"
+}
